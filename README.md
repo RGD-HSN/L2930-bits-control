@@ -59,3 +59,9 @@ The main idea is controlling motors using **bitwise operations**:
 
 ```cpp
 motorState = (motorState & MASK) | VALUE;
+
+
+<img width="557" height="387" alt="Screenshot 2026-03-28 at 3 15 35 AM" src="https://github.com/user-attachments/assets/d2e39467-189b-40e4-b12a-0149c9130811" />
+
+
+
